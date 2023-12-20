@@ -1160,4 +1160,10 @@ Text GLabel 3500 3150 0    60   Input ~ 0
 I_ENABLE
 Wire Wire Line
 	3500 3150 3600 3150
+Text Label 7730 3850 0    60   ~ 0
+MCLR
+Text Label 7720 3750 0    60   ~ 0
+PGD
+Text Label 7730 3650 0    60   ~ 0
+PGC
 $EndSCHEMATC
