@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:MBTemp3_Eurocard-rescue
 LIBS:MBTemp3-rescue
 LIBS:power
 LIBS:device
@@ -32,14 +31,15 @@ LIBS:contrib
 LIBS:valves
 LIBS:Pt100-cache
 LIBS:Controle
+LIBS:MBTemp3_Eurocard-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 4
-Title "MBTemp Eurocard"
-Date "2017-06-20"
-Rev "V2.4"
+Title ""
+Date "28 oct 2014"
+Rev ""
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -359,7 +359,7 @@ P 6150 6100
 AR Path="/510A845C" Ref="C23"  Part="1" 
 AR Path="/5087D3F4/510A845C" Ref="C23"  Part="1" 
 F 0 "C23" H 6200 6200 50  0000 L CNN
-F 1 "100nF" H 6200 6000 50  0000 L CNN
+F 1 "0.1uF" H 6200 6000 50  0000 L CNN
 F 2 "" H 6150 6100 60  0001 C CNN
 F 3 "" H 6150 6100 60  0001 C CNN
 	1    6150 6100
@@ -385,7 +385,7 @@ P 4550 6100
 AR Path="/510A8446" Ref="C21"  Part="1" 
 AR Path="/5087D3F4/510A8446" Ref="C21"  Part="1" 
 F 0 "C21" H 4600 6200 50  0000 L CNN
-F 1 "100nF" H 4600 6000 50  0000 L CNN
+F 1 "0.1uF" H 4600 6000 50  0000 L CNN
 F 2 "" H 4550 6100 60  0001 C CNN
 F 3 "" H 4550 6100 60  0001 C CNN
 	1    4550 6100
@@ -448,7 +448,7 @@ P 4800 3400
 AR Path="/510A811B" Ref="C17"  Part="1" 
 AR Path="/5087D3F4/510A811B" Ref="C17"  Part="1" 
 F 0 "C17" H 4850 3500 50  0000 L CNN
-F 1 "100nF" H 4850 3300 50  0000 L CNN
+F 1 "0.1uF" H 4850 3300 50  0000 L CNN
 F 2 "" H 4800 3400 60  0001 C CNN
 F 3 "" H 4800 3400 60  0001 C CNN
 	1    4800 3400

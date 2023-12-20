@@ -32,15 +32,14 @@ LIBS:contrib
 LIBS:valves
 LIBS:Pt100-cache
 LIBS:Controle
-LIBS:MBTemp3_Eurocard-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 4
-Title ""
-Date "28 oct 2014"
-Rev ""
+Title "MBTemp Eurocard"
+Date "2017-06-20"
+Rev "V2.4"
 Comp ""
 Comment1 ""
 Comment2 ""

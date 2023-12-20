@@ -32,15 +32,14 @@ LIBS:contrib
 LIBS:valves
 LIBS:Pt100-cache
 LIBS:Controle
-LIBS:MBTemp3_Eurocard-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 4
-Title ""
-Date "28 oct 2014"
-Rev ""
+Title "MBTemp Eurocard"
+Date "2017-06-20"
+Rev "V2.4"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -317,7 +316,7 @@ Wire Wire Line
 Text GLabel 8450 4100 2    60   Input ~ 0
 PT100_Diff+
 $Sheet
-S 7650 5550 1000 950 
+S 7325 5120 1000 950 
 U 5087D3F4
 F0 "ADC" 60
 F1 "Projeto007-Sensor-Temperatura.sch" 60
@@ -351,7 +350,7 @@ B
 Text GLabel 5100 4500 3    60   Input ~ 0
 A
 $Sheet
-S 3000 5700 2250 1600
+S 3030 5160 2250 1600
 U 503F7772
 F0 "PIC" 60
 F1 "Pic.sch" 60
@@ -379,7 +378,7 @@ F 3 "" H 1050 5050 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Sheet
-S 5650 5750 1300 950 
+S 5615 5135 1300 950 
 U 50211263
 F0 "Alimentacao" 60
 F1 "Alimentacao.sch" 60
